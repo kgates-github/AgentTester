@@ -1,5 +1,5 @@
-# Agentic II
-Agentic II runs tests to explore UX for a multi-agent chat interface.
+# Agent Tester
+Agent Tester runs tests to explore UX for a multi-agent chat interface.
 
 NOTE: This app requires a current version of Google Chrome browser to run.
 
